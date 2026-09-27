@@ -1,0 +1,4 @@
+LifeLink Blood Donation System
+Blood Group: O+
+Available Units: 5
+Status: ACTIVE
